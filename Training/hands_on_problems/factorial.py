@@ -4,7 +4,9 @@ import time
 # complete the decorator function to print logging messages
 
 def logging(func):
-    return True
+    print("Staring function: factorial{}")
+    # if (factorial()):
+
 
 
 def factorial(num):
